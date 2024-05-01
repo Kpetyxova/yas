@@ -8,3 +8,12 @@ tqdm==4.66.1
 transformers==4.40.1
 trl==0.8.6
 wandb==0.16.6
+gdown==5.1.0
+packaging==24.0
+ninja==1.11.1.1
+einops==0.8.0
+flash-attn==2.5.8
+xformers==0.0.26.post1
+peft==0.10.0
+accelerate==0.29.3
+bitsandbytes==0.43.1
